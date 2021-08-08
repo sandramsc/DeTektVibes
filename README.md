@@ -45,7 +45,7 @@ How:
 <!-- GETTING STARTED -->
 ## Getting Started & Installation
 
-To get a local copy up and running follow these simple example steps.
+To get a local copy up and running:
 
 1. Clone the repo
    ```sh
