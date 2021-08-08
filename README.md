@@ -40,7 +40,6 @@ How:
 
 * [Openlayers](https://openlayers.org/)
 * [Earthquake data (all_day) from USGS](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson)
-* [JQuery](https://jquery.com)
 
 <!-- GETTING STARTED -->
 ## Getting Started & Installation
