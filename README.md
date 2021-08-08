@@ -39,7 +39,7 @@ How:
 ### Built With
 
 * [Openlayers](https://openlayers.org/)
-* [Earthquake data from USGS](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson)
+* [Earthquake data (all_day) from USGS](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson)
 * [JQuery](https://jquery.com)
 
 <!-- GETTING STARTED -->
