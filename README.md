@@ -61,6 +61,6 @@ To get a local copy up and running follow these simple example steps.
 <!--CONTACT -->
 ## Contact
 
-Sandra Ashipala - [LinkedIn](https://linkedin.com/en/sandraashipala)
+Sandra Ashipala - [LinkedIn](https://www.linkedin.com/in/sandraashipala/)
 
 Project Link: [DeTektVibes](https://github.com/sajustsmile/DeTektVibes)
