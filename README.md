@@ -1,20 +1,5 @@
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
+<!-- PROJECT TITLE -->
   <h3 align="center">DeTektVibes</h3>
 
   <p align="center">
@@ -69,8 +54,9 @@ To get a local copy up and running follow these simple example steps.
 
 <!-- USAGE EXAMPLES -->
 ## Example Screenshot
+![appview_with_left_panel_and_button](https://user-images.githubusercontent.com/19821445/128646591-8f8872b9-e4e8-4277-b522-ba616e525a4d.JPG)
 
-![appview_with_left_panel_and_button](https://user-images.githubusercontent.com/19821445/128646440-75d8e4ab-6c92-4c52-9d9f-7ad68ead5171.JPG)
+
 
 <!--CONTACT -->
 ## Contact
@@ -78,4 +64,3 @@ To get a local copy up and running follow these simple example steps.
 Sandra Ashipala - [LinkedIn](https://linkedin.com/en/sandraashipala)
 
 Project Link: [DeTektVibes](https://github.com/sajustsmile/DeTektVibes)
-![appview_with_left_panel_and_button](https://user-images.githubusercontent.com/19821445/128646421-69a71e1d-5531-4fed-ad56-8189b11af7a5.JPG)
