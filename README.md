@@ -52,10 +52,10 @@ To get a local copy up and running:
    ```
 
 <!-- USAGE EXAMPLES -->
-## Example Screenshot
+## Example Screenshot & GIF
 ![appview_with_left_panel_and_button](https://user-images.githubusercontent.com/19821445/128646591-8f8872b9-e4e8-4277-b522-ba616e525a4d.JPG)
 
-
+![button_functionality](https://user-images.githubusercontent.com/19821445/128684834-f91f85ee-a433-483f-9983-a44dd9c3d97c.gif)
 
 <!--CONTACT -->
 ## Contact
