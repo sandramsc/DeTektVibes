@@ -3,7 +3,7 @@
   <h1 align="center">DeTektVibes</h1>
 
   <2 align="center">
-    Earthquake Data Visualizer App
+   <h2> Earthquake Data Visualizer App
     <br />
     </h2>
 
