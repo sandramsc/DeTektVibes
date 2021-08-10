@@ -2,10 +2,10 @@
 <!-- PROJECT TITLE -->
   <h1 align="center">DeTektVibes</h1>
 
-  <p align="center">
+  <2 align="center">
     Earthquake Data Visualizer App
     <br />
-    </p>
+    </h2>
 
 
 ### About:
