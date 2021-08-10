@@ -1,6 +1,6 @@
 
 <!-- PROJECT TITLE -->
-  <h3 align="center">DeTektVibes</h3>
+  <h1 align="center">DeTektVibes</h1>
 
   <p align="center">
     Earthquake Data Visualizer App
