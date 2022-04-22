@@ -24,7 +24,7 @@ To get a local copy up and running:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/sajustsmile/DeTektVibes.git
+   git clone https://github.com/sandramsc/DeTektVibes.git
    ```
 
 <!-- USAGE EXAMPLES -->
