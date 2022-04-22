@@ -1,4 +1,5 @@
-    //source
+/* Designed & coded by Sandra Ashipala <https://github.com/sandramsc> */    
+//source
     //layer
     //map
         // change mouse cursor when over marker
